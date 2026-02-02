@@ -14,7 +14,7 @@ class Config {
 
   validate(): void {
     const errors: string[] = [];
-
+////
     if (isNaN(this.port) || this.port < 1 || this.port > 65535) {
       errors.push('PORT must be a valid number between 1 and 65535');
     }
