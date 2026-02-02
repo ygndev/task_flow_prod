@@ -4,6 +4,7 @@ class Config {
   readonly port: number;
   readonly nodeEnv: string;
   readonly firebaseServiceAccountKey?: string;
+  ///test
 
   constructor() {
     this.port = parseInt(process.env.PORT || '4000', 10);
