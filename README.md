@@ -213,12 +213,12 @@ TaskFlow is built as a **demo-ready MVP**: clear separation of concerns, testabl
 ## Demo Accounts
 
 Admin:
-- Email: admin@taskflow.dev
-- Password: demo123
+- Email: a@admin.com
+- Password: 123456789
 
 Member:
-- Email: member@taskflow.dev
-- Password: demo123
+- Email: a@admin.com
+- Password: 123456789
 
 ## Submission Checklist
 - [x] Auth works
